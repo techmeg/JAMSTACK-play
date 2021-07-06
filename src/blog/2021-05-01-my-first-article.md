@@ -8,7 +8,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   aliquam?
 author: Kevin & Meg
 date: 2021-05-01
-image: /assets/blog/article-1.jpg
+image: /assets/blog/screen-shot-2021-04-21-at-4.01.05-pm-2-.png
 imageAlt: This is a test
 ---
 
